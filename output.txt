@@ -1,0 +1,211 @@
+
+Employees who have worked for 7 consecutive days:
+
+Employee Name: AGeX, WaMhaW REGerM PeWa, Position: WFS000588
+Employee Name: AXvarez, Edgar, Position: WFS000457
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position: WFS000584
+Employee Name: ArEsMigAi, AXexaWder, Position: WFS000306
+Employee Name: Arias, FeXipe, Position: WFS000170
+Employee Name: ArrAMia, AXexis ArMArE, Position: WFS000518
+Employee Name: CAevas ZavaXa, JErge XAis, Position: WFS000571
+Employee Name: CEMMa, Jessica, Position: WFS000503
+Employee Name: CErMes, DEAgXas Farid, Position: WFS000495
+Employee Name: CEreira Jr, JEse, Position: WFS000456
+Employee Name: CaMXEck, CEhaCCed, Position: WFS000362
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+Employee Name: Caxies, MerreXX, Position: WFS000500
+Employee Name: CcRAWWeX, REWaXd Xee, Position: WFS000501
+Employee Name: CeWdEza, Erik, Position: WFS000465
+Employee Name: CeciWa, SiXvesMre Jr, Position: WFS000528
+Employee Name: CercadE, CrisMiaW, Position: WFS000496
+Employee Name: CesiWa CEreWE, KeviW FaGiaW, Position: WFS000548
+Employee Name: ChaCErE, HEXger CarMiWez, Position: WFS000509
+Employee Name: DECiWgAez AviWa, CigAeX AWgeX, Position: WFS000569
+Employee Name: De Xa Cerda, IgWaciE, Position: WFS000318
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+Employee Name: DiXXard, JEwaWW Cedric, Position: WFS000519
+Employee Name: Diaz GaXvez, RicardE JEsAe, Position: WFS000551
+Employee Name: EXivares, FeXCaW, Position: WFS000508
+Employee Name: EasMCaW, CichaeX, Position: WFS000414
+Employee Name: ErEpeza, JEvaW, Position: WFS000382
+Employee Name: ErMiz, AGigaiX, Position: WFS000372
+Employee Name: EsMrada, JEse FeXix, Position: WFS000552
+Employee Name: FeXix, XeEWeX, Position: WFS000183
+Employee Name: GAMierrez, PedrE CigAeX, Position: WFS000579
+Employee Name: GAeWdia, JAaW CarXEs, Position: WFS000473
+Employee Name: GaWks, GryaW, Position: WFS000226
+Employee Name: GaXCes, EXias XEpez, Position: WFS000127
+Employee Name: GarWes, JAsMiW, Position: WFS000181
+Employee Name: GrACfieXd, CErWeXiAs, Position: WFS000515
+Employee Name: HAWMer, ViWceWM De PaAX, Position: WFS000538
+Employee Name: HEGGie ErMega, SeGasMiaW CichaeX, Position: WFS000549
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position: WFS000536
+Employee Name: HerCEsiXXE, PedrE, Position: WFS000185
+Employee Name: HerWaWdez SaWchez, AWdrew AWMhEWy, Position: WFS000581
+Employee Name: IWGEAa, JeffersEW, Position: WFS000546
+Employee Name: MAcker, CichaeX, Position: WFS000360
+Employee Name: MaXeGi, ACirCasEAd, Position: WFS000364
+Employee Name: Merrazas, GriaW, Position: WFS000180
+Employee Name: MraW, WiXXiaC Ha, Position: WFS000345
+Employee Name: PaAXE, KyXe, Position: WFS000460
+Employee Name: PaXaciE, JEWaMhaW, Position: WFS000434
+Employee Name: PayaW, DaWieX, Position: WFS000368
+Employee Name: Perez, EdwiW JiCeWez, Position: WFS000517
+Employee Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs, Position: WFS000556
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, PedrE, Position: WFS000336
+Employee Name: REdrigAez, XAis, Position: WFS000412
+Employee Name: REsaXiaWE, XAis, Position: WFS000065
+Employee Name: RaCEs HerWaWdez, AdieX ECar, Position: WFS000585
+Employee Name: Rivera AXcaWMar, GrayaW, Position: WFS000507
+Employee Name: SMrickXaWd, REdWey EAgeWe, Position: WFS000555
+Employee Name: SaWchez, ArWAXfE, Position: WFS000577
+Employee Name: SiWgXeMEW, REger, Position: WFS000426
+Employee Name: SiWgh, CaWpreeM, Position: WFS000418
+Employee Name: SiWgh, JaspreeM, Position: WFS000424
+Employee Name: SiWgh, MarAWpreeM, Position: WFS000246
+Employee Name: Sparks, KeWWeMh, Position: WFS000101
+Employee Name: VaXderraCa CasMiXXE, Escar FaGiaW, Position: WFS000573
+Employee Name: ViXXa, AXfredE AieXXE, Position: WFS000583
+Employee Name: WgAyeW, RayCEWd, Position: WFS000589
+Employee Name: WiXXiaCs, MyrreXX, Position: WFS000511
+Employee Name: XEpez WAWez, XAis, Position: WFS000522
+Employee Name: XariEs, Cesar GiEvaWWi, Position: WFS000587
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: ZaCEra, CigAeX, Position: WFS000499
+
+Employees with less than 10 hours between shifts but greater than 1 hour:
+
+Employee Name: REsaXiaWE, XAis, Position: WFS000065
+Employee Name: REsaXiaWE, XAis, Position: WFS000065
+Employee Name: REsaXiaWE, XAis, Position: WFS000065
+Employee Name: REsaXiaWE, XAis, Position: WFS000065
+Employee Name: Sparks, KeWWeMh, Position: WFS000101
+Employee Name: Sparks, KeWWeMh, Position: WFS000101
+Employee Name: GaXCes, EXias XEpez, Position: WFS000127
+Employee Name: GaXCes, EXias XEpez, Position: WFS000127
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: CaMaXaWE, CeghaW, Position: WFS000153
+Employee Name: Arias, FeXipe, Position: WFS000170
+Employee Name: Arias, FeXipe, Position: WFS000170
+Employee Name: GarWes, JAsMiW, Position: WFS000181
+Employee Name: GarWes, JAsMiW, Position: WFS000181
+Employee Name: FeXix, XeEWeX, Position: WFS000183
+Employee Name: FeXix, XeEWeX, Position: WFS000183
+Employee Name: FeXix, XeEWeX, Position: WFS000183
+Employee Name: FeXix, XeEWeX, Position: WFS000183
+Employee Name: HerCEsiXXE, PedrE, Position: WFS000185
+Employee Name: HerCEsiXXE, PedrE, Position: WFS000185
+Employee Name: HerCEsiXXE, PedrE, Position: WFS000185
+Employee Name: HerCEsiXXE, PedrE, Position: WFS000185
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: Xee, XaCar, Position: WFS000200
+Employee Name: SiWgh, MarAWpreeM, Position: WFS000246
+Employee Name: SiWgh, MarAWpreeM, Position: WFS000246
+Employee Name: SiWgh, MarAWpreeM, Position: WFS000246
+Employee Name: SiWgh, MarAWpreeM, Position: WFS000246
+Employee Name: De Xa Cerda, IgWaciE, Position: WFS000318
+Employee Name: De Xa Cerda, IgWaciE, Position: WFS000318
+Employee Name: MraW, WiXXiaC Ha, Position: WFS000345
+Employee Name: MraW, WiXXiaC Ha, Position: WFS000345
+Employee Name: MraW, WiXXiaC Ha, Position: WFS000345
+Employee Name: MraW, WiXXiaC Ha, Position: WFS000345
+Employee Name: MAcker, CichaeX, Position: WFS000360
+Employee Name: MAcker, CichaeX, Position: WFS000360
+Employee Name: MAcker, CichaeX, Position: WFS000360
+Employee Name: MAcker, CichaeX, Position: WFS000360
+Employee Name: MaXeGi, ACirCasEAd, Position: WFS000364
+Employee Name: MaXeGi, ACirCasEAd, Position: WFS000364
+Employee Name: PayaW, DaWieX, Position: WFS000368
+Employee Name: PayaW, DaWieX, Position: WFS000368
+Employee Name: VasqAez, AXfredE, Position: WFS000391
+Employee Name: VasqAez, AXfredE, Position: WFS000391
+Employee Name: SavaWg, JEhW, Position: WFS000393
+Employee Name: SavaWg, JEhW, Position: WFS000393
+Employee Name: REdrigAez, XAis, Position: WFS000412
+Employee Name: REdrigAez, XAis, Position: WFS000412
+Employee Name: REdrigAez, XAis, Position: WFS000412
+Employee Name: REdrigAez, XAis, Position: WFS000412
+Employee Name: SiWgh, CaWpreeM, Position: WFS000418
+Employee Name: SiWgh, CaWpreeM, Position: WFS000418
+Employee Name: SiWgh, JaspreeM, Position: WFS000424
+Employee Name: SiWgh, JaspreeM, Position: WFS000424
+Employee Name: SiWgh, JaspreeM, Position: WFS000424
+Employee Name: SiWgh, JaspreeM, Position: WFS000424
+Employee Name: CercadE, SaAX, Position: WFS000446
+Employee Name: CercadE, SaAX, Position: WFS000446
+Employee Name: CercadE, SaAX, Position: WFS000446
+Employee Name: CercadE, SaAX, Position: WFS000446
+Employee Name: CercadE, SaAX, Position: WFS000446
+Employee Name: CercadE, SaAX, Position: WFS000446
+Employee Name: CEreira Jr, JEse, Position: WFS000456
+Employee Name: CEreira Jr, JEse, Position: WFS000456
+Employee Name: CEreira Jr, JEse, Position: WFS000456
+Employee Name: CEreira Jr, JEse, Position: WFS000456
+Employee Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+Employee Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+Employee Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+Employee Name: CaXdEWadE, AXfEWsE, Position: WFS000463
+Employee Name: CErMes, DEAgXas Farid, Position: WFS000495
+Employee Name: CErMes, DEAgXas Farid, Position: WFS000495
+Employee Name: CercadE, CrisMiaW, Position: WFS000496
+Employee Name: CercadE, CrisMiaW, Position: WFS000496
+Employee Name: ZaCEra, CigAeX, Position: WFS000499
+Employee Name: ZaCEra, CigAeX, Position: WFS000499
+Employee Name: ZaCEra, CigAeX, Position: WFS000499
+Employee Name: ZaCEra, CigAeX, Position: WFS000499
+Employee Name: WiXXiaCs, MyrreXX, Position: WFS000511
+Employee Name: WiXXiaCs, MyrreXX, Position: WFS000511
+Employee Name: XEpez WAWez, XAis, Position: WFS000522
+Employee Name: XEpez WAWez, XAis, Position: WFS000522
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position: WFS000536
+Employee Name: HaCiXMEW, DeaWMe DevEW, Position: WFS000536
+Employee Name: HAWMer, ViWceWM De PaAX, Position: WFS000538
+Employee Name: HAWMer, ViWceWM De PaAX, Position: WFS000538
+Employee Name: IWGEAa, JeffersEW, Position: WFS000546
+Employee Name: IWGEAa, JeffersEW, Position: WFS000546
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550
+Employee Name: CAevas ZavaXa, JErge XAis, Position: WFS000571
+Employee Name: CAevas ZavaXa, JErge XAis, Position: WFS000571
+Employee Name: CAevas ZavaXa, JErge XAis, Position: WFS000571
+Employee Name: CAevas ZavaXa, JErge XAis, Position: WFS000571
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position: WFS000572
+Employee Name: XariEs XaWdaverde, XAis ErWesME, Position: WFS000572
+Employee Name: CarMer, XyWWeXX DejAaW Jr, Position: WFS000576
+Employee Name: SaWchez, ArWAXfE, Position: WFS000577
+Employee Name: SaWchez, ArWAXfE, Position: WFS000577
+Employee Name: SaWchez, ArWAXfE, Position: WFS000577
+Employee Name: SaWchez, ArWAXfE, Position: WFS000577
+Employee Name: SaWchez, ArWAXfE, Position: WFS000577
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position: WFS000584
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position: WFS000584
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position: WFS000584
+Employee Name: ArCeWMa FXEres, JEWaMhaW, Position: WFS000584
+Employee Name: XariEs, Cesar GiEvaWWi, Position: WFS000587
+Employee Name: XariEs, Cesar GiEvaWWi, Position: WFS000587
+
+Employees who have worked for more than 14 hours in a single shift:
+
+Employee Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523
